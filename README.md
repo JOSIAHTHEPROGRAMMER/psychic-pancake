@@ -1,3 +1,60 @@
+# Next.js Dashboard with ShadCN UI
+A fully responsive dashboard application built with Next.js, Tailwind CSS, and ShadCN UI.
+Includes a sidebar, navbar, charts, tables, forms, and multiple pages such as Users, Payments, and a main dashboard.
+
+ ## Features
+ 
+Responsive Sidebar & Navbar with dropdowns, collapsible groups, and dark mode
+
+#### Dynamic Pages:
+
+ / – Main Dashboard
+
+ /users/test – User page with profile, cards, and forms
+
+/payments – Payment table with sorting, pagination, and selection
+
+
+
+#### UI Components:
+
+Breadcrumbs, hover cards, progress bars, sheets, forms, and more
+
+Charts with Recharts: Area, Pie, and radial charts
+
+Data Tables with TanStack Table for sorting, pagination, and custom cells
+
+Form Validation with Zod + React Hook Form
+
+----  
+
+## Tech Stack
+
+Next.js 14
+
+Tailwind CSS
+
+ShadCN UI + Radix UI
+
+Recharts
+
+TanStack Table
+
+Zod & react-hook-form
+
+---- 
+
+## Getting Started
+
+``` bash
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
+----
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
