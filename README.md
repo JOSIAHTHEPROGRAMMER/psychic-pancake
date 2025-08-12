@@ -1,5 +1,5 @@
 # Next.js Dashboard with ShadCN UI
-A fully responsive dashboard application built with Next.js, Tailwind CSS, and ShadCN UI.
+A fully responsive [dashboard](https://psychic-pancake-dun.vercel.app/) application built with Next.js, Tailwind CSS, and ShadCN UI.
 Includes a sidebar, navbar, charts, tables, forms, and multiple pages such as Users, Payments, and a main dashboard.
 
  ## Features
