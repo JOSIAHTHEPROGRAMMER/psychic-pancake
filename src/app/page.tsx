@@ -1,7 +1,7 @@
 import { ChartAreaInteractive as AppAreaChart} from "@/components/AppAreaChart";
 import {ChartBarMixed as AppBarChart} from "@/components/AppBarChart";
 import {ChartPieLabelList as AppPieChart} from "@/components/AppPieChart";
-import {ChartRadialShape as AppRadialChart} from "@/components/AppRadialChart"
+// import {ChartRadialShape as AppRadialChart} from "@/components/AppRadialChart"
 
 import CardList from "@/components/CardList";
 import TodoList from "@/components/TodoList";

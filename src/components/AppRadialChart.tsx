@@ -100,7 +100,7 @@ export function ChartRadialShape() {
           Revenue increased by 8.4% this quarter <TrendingUp className="h-4 w-4" />
         </div>
         <div className="text-muted-foreground leading-none">
-          Tesla's financial performance in Q1 2025
+          Tesla&apos;s financial performance in Q1 2025
         </div>
       </CardFooter>
     </Card>

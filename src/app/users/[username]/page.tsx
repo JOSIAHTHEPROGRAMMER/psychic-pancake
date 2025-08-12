@@ -19,7 +19,7 @@ import { Sheet, SheetTrigger } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
 import EditUser from "@/components/EditUser";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import {ChartRadialShape as AppRadialChart, ChartRadialShape} from "@/components/AppRadialChart"
+import {ChartRadialShape as AppRadialChart} from "@/components/AppRadialChart"
 
 
 const SingleUserPage = () => {
@@ -180,7 +180,7 @@ const SingleUserPage = () => {
           {/* CHART CONTAINER */}
           <div className="bg-primary-foreground p-4 rounded-lg">
             <h1 className="text-xl font-semibold">Tesla Earnings</h1>
-            <ChartRadialShape />
+            <AppRadialChart />
           </div>
         </div>
       </div>
